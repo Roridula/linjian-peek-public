@@ -1,0 +1,12 @@
+name = "linjian-peek"
+main = "worker.js"
+compatibility_date = "2025-08-01"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "linjian-peek"
+database_id = "2e21f3ce-d423-4c3a-b2d5-b1af30dfed63"
+
+[[kv_namespaces]]
+binding = "SCREENSHOT_KV"
+id = "a2b0dad042de4d1193bbd576081f414c"
